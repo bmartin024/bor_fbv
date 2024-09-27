@@ -42,7 +42,7 @@ source ~/ros2_ws/install/setup.bash
 </details>
 
 ``` r
-ros2 launch bor_fbv launch_example1.launch.py
+ros2 launch bor_fbv random_sum_launch.py
 ```
 
 Now `colcon build` your ROS 2 package and you can start wokring.
